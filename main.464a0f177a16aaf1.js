@@ -1,0 +1,1 @@
+(self.webpackChunkpontomaisv2=self.webpackChunkpontomaisv2||[]).push([[8792],{23147:(e,n,s)=>{s.e(7063).then(s.bind(s,7063)).catch(o=>console.error(o))}},e=>{e(e.s=23147)}]);
